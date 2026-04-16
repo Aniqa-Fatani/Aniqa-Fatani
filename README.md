@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aniqa%20Fatani&fontSize=70&animation=fadeIn" />
+</p>
 
 
 # Hi, I'm Aniqa! 👋
@@ -6,9 +9,15 @@
 
 I am a first-year **Doctor of Physical Therapy** student at KMU, passionate about combining healthcare with technology. 
 
-- 🎓 **Studying:** Medical Physiology and Physical Therapy.
-- ⚡ **Interests:** Health-tech, data analysis in medical research, and digital archiving.
-- 🎨 **Creative Side:** I enjoy photography and creating visual content for campus engagement.
+- 🎓 **Studying:** ![DPT](https://img.shields.io/badge/Focus-Physical_Therapy-blue?style=for-the-badge&logo=medical-services&logoColor=white)
+- ⚡ **Interests:** ![Research](https://img.shields.io/badge/Specialty-Medical_Research-green?style=for-the-badge&logo=google-scholar&logoColor=white)
+- ### 📸 Creative & Digital Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/Photography-moody-black?style=for-the-badge&logo=google-photos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-Design-blue?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/CapCut-Video-white?style=for-the-badge&logo=capcut&logoColor=black" />
+</p>
+
 - 🚀 **Goals:** Exploring how IT skills can transform clinical research.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
