@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aniqa%20Fatani&fontSize=70&animation=fadeIn" />
 </p>
+<p align="center">
+  <img src="03a44bea5a4f1431de12f1a51fe426ef.jpg" width="100%" />
+</p>
 
 
 # Hi, I'm Aniqa! 👋
